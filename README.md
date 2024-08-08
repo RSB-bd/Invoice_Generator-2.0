@@ -46,7 +46,7 @@ Features
 
 ## Screenshots
 <p align="left">
-  <img src="https://github.com/RSB-bd/Invoice_Generator-2.0/blob/main/Application%20Interface.png" 
+  <img src="https://github.com/RSB-bd/Invoice_Generator-2.0/blob/main/Invoice%20Window%20design.png" 
        alt="Invoice Example" 
        style="border-radius: 50px; width: 500px; height: auto;"/>
 </p>
