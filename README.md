@@ -22,7 +22,7 @@ This project provides a simple and intuitive way to create invoices, with the fo
 
 1. Clone the repository: 
    ```bash
-   git clone https://github.com/your-username/invoice-creator.git
+   git clone https://github.com/RSB-bd/invoice-creator.git
 
     Navigate to the project directory:
 
